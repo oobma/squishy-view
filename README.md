@@ -4,6 +4,8 @@ Non-proportional (anisotropic) viewport projection for Blender. Squeeze or stret
 the view along X and Y to inspect and edit your models with a "squashed" view —
 **visual only: it never alters the geometry.**
 
+![SquishyView demo](media/squishy_demo.gif)
+
 ![Blender 4.2+](https://img.shields.io/badge/Blender-4.2%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL--3.0--or--later-green)
 
