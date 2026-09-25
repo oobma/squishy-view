@@ -41,11 +41,22 @@ the view along X and Y to inspect and edit your models with a "squashed" view �
 
 ## Installation
 
-1. Download `squishy_view.py`.
+**Method 1 — from the repository**
+
+1. Download [`squishy_view.py`](https://github.com/oobma/squishy-view/raw/main/squishy_view.py).
 2. Blender ▸ *Edit ▸ Preferences ▸ Add-ons ▸ Install…* and pick the file
    (or copy it into your `scripts/addons` folder).
 3. Enable **SquishyView** — the panel appears in the 3D Viewport sidebar
    (`N`) under the **SquishyView** tab.
+
+**Method 2 — from the latest release**
+
+1. Open the [latest release](https://github.com/oobma/squishy-view/releases/latest)
+   and download `squishy_view-<version>.zip` (or `squishy_view.py`) from the
+   *Assets* section.
+2. Blender ▸ *Edit ▸ Preferences ▸ Add-ons ▸ Install…* and pick the downloaded
+   file.
+3. Enable **SquishyView** and open its panel in the 3D Viewport sidebar (`N`).
 
 ## Usage
 
